@@ -8,17 +8,33 @@
 # Version 2
 # Using variables in makefile
 
+# CXX = g++
+# TARGET = testfiles
+# OBJ = main.o printinfo.o factorial.o
+# $(TARGET): $(OBJ)
+#	$(CXX) -o $(TARGET) $(OBJ)
+
+# main.o: main.cpp
+#	$(CXX) -c main.cpp
+
+# printinfo.o: printinfo.cpp
+#	$(CXX) -c printinfo.cpp
+
+# factorial.o: factorial.cpp
+#	$(CXX) -c factorial.cpp
+
+# Version 3
 CXX = g++
 TARGET = testfiles
 OBJ = main.o printinfo.o factorial.o
+CXXFLAGS = -c -Wall
+
 $(TARGET): $(OBJ)
-	$(CXX) -o $(TARGET) $(OBJ)
+	$(CXX) $^ -o $@
 
-main.o: main.cpp
-	$(CXX) -c main.cpp
+%.o: %.cpp
+	$(CXX) $(CXXFLAGS) $< -o $@
 
-printinfo.o: printinfo.cpp
-	$(CXX) -c printinfo.cpp
-
-factorial.o: factorial.cpp
-	$(CXX) -c factorial.cpp
+.PHONY: clean
+clean:
+	rm -f *.o $(TARGET)
