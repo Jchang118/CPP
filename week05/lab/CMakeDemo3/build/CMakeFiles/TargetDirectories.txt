@@ -1,0 +1,3 @@
+/Users/liangchengchang/cpp/CPP/week05/lab/CMakeDemo3/build/CMakeFiles/CMakeDemo3.dir
+/Users/liangchengchang/cpp/CPP/week05/lab/CMakeDemo3/build/CMakeFiles/edit_cache.dir
+/Users/liangchengchang/cpp/CPP/week05/lab/CMakeDemo3/build/CMakeFiles/rebuild_cache.dir
