@@ -1,0 +1,6 @@
+/Users/liangchengchang/cpp/CPP/week06/lab/static_lib/static_cmake/build/CMakeFiles/CMakeDemo4.dir
+/Users/liangchengchang/cpp/CPP/week06/lab/static_lib/static_cmake/build/CMakeFiles/edit_cache.dir
+/Users/liangchengchang/cpp/CPP/week06/lab/static_lib/static_cmake/build/CMakeFiles/rebuild_cache.dir
+/Users/liangchengchang/cpp/CPP/week06/lab/static_lib/static_cmake/build/lib/CMakeFiles/MyFunction.dir
+/Users/liangchengchang/cpp/CPP/week06/lab/static_lib/static_cmake/build/lib/CMakeFiles/edit_cache.dir
+/Users/liangchengchang/cpp/CPP/week06/lab/static_lib/static_cmake/build/lib/CMakeFiles/rebuild_cache.dir
