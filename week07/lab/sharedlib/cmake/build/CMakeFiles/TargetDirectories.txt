@@ -1,0 +1,6 @@
+/root/cpp/CPP/week07/lab/sharedlib/cmake/build/CMakeFiles/CMakeDemo5.dir
+/root/cpp/CPP/week07/lab/sharedlib/cmake/build/CMakeFiles/edit_cache.dir
+/root/cpp/CPP/week07/lab/sharedlib/cmake/build/CMakeFiles/rebuild_cache.dir
+/root/cpp/CPP/week07/lab/sharedlib/cmake/build/lib/CMakeFiles/MyDynamicFun.dir
+/root/cpp/CPP/week07/lab/sharedlib/cmake/build/lib/CMakeFiles/edit_cache.dir
+/root/cpp/CPP/week07/lab/sharedlib/cmake/build/lib/CMakeFiles/rebuild_cache.dir

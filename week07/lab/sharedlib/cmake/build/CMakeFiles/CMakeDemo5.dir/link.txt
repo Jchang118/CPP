@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/CMakeDemo5.dir/main.cpp.o -o CMakeDemo5  -Wl,-rpath,/root/cpp/CPP/week07/lab/sharedlib/cmake/build/lib lib/libMyDynamicFun.so 
